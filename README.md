@@ -1,2 +1,2 @@
-# ashishgenai
-This is my first repository
+# krishgenai
+This is my first repository, for learrning genai
